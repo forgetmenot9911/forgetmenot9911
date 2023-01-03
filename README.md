@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @forgetmenot9911
 - 👀 I’m interested in data visualization with Python
 - 🌱 I’m currently learning machine learning
-- I like to cycling🚴🏻, traveling🎒, or playing games on PC💻
+- I like to cycling🚴🏻 and traveling🎒
 - 📫 How to reach me : wangyc9911@163.com
 
 <!---
